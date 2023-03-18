@@ -35,4 +35,3 @@ prototype v0.0.0 ⋮ 13/03/2023
 ## <a></a>👤 〢 Authors ##
 
 - [黑客先生](https://discord.com/users/1069291785685307392)
-- [Less Fakes](https://discord.com/users/757746872650825850)
